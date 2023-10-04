@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-It's a small project which will greet you according to the current time.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
